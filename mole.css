@@ -14,6 +14,7 @@
   width: 188px;
   left: 54.5px;
   transition: margin-top 0.25s;
+  margin-top: 0px; /* Or another value like 53px, adjust as needed */
 }
 
 .wgs__dirt-pile {
@@ -29,6 +30,12 @@
   width: 188px;
   left: 54.5px;
   margin-top: 241px;
+}
+
+.pf {
+  display: grid;
+  grid-template-columns: 320px 320px 320px 320px;
+  grid-template-rows: 2;
 }
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
