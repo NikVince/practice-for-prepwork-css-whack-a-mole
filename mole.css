@@ -21,6 +21,13 @@
   bottom: 0px;
 }
 
+.wgs__mole-head--hidden {
+  height: 376px;
+  position: absolute;
+  width: 376px;
+  left: 109px;
+  margin-top: 482px;
+}
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 /* .sb {
