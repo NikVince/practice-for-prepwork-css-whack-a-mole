@@ -2,7 +2,8 @@
 
 .wgs {
   height: 482px;
-  position: absolute;
+  position: relative;
+  display: inline-block;
   width: 640px;
 }
 
