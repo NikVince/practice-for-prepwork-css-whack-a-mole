@@ -1,34 +1,34 @@
 /* Your code here */
 
 .wgs {
-  height: 482px;
+  height: 241px;
   position: relative;
   display: inline-block;
-  width: 640px;
+  width: 320px;
   overflow: hidden;
 }
 
 .wgs__mole-head {
-  height: 376px;
+  height: 188px;
   position: absolute;
-  width: 376px;
-  left: 109px;
+  width: 188px;
+  left: 54.5px;
   transition: margin-top 0.25s;
 }
 
 .wgs__dirt-pile {
-  height: 220px;
+  height: 110px;
   position: absolute;
-  width: 640px;
+  width: 320px;
   bottom: 0px;
 }
 
 .wgs__mole-head--hidden {
-  height: 376px;
+  height: 188px;
   position: absolute;
-  width: 376px;
-  left: 109px;
-  margin-top: 482px;
+  width: 188px;
+  left: 54.5px;
+  margin-top: 241px;
 }
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
